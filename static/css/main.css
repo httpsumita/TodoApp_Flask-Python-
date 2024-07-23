@@ -1,0 +1,23 @@
+body{
+    background-color: #6F4E37;
+    color: #FEB941;
+    
+    
+}
+.content{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+a{
+    color: #FEB941;
+}
+td,th{
+    border: 1px solid #FEB941;
+    padding: 10px;
+    
+}
+form{
+    margin-top: 5%;
+}
